@@ -49,10 +49,4 @@ Per ragioni di correttezza verso il gruppo e di trasparenza tutti, i membri DR s
 
 La struttura gerarchica di JATF è composta da un Consiglio direttivo costituito da più consiglieri e presieduto da un presidente, da uno staff di gestione e moderazione dei canali di comunicazione, da uno staff dedicato all'organizzazione e regolamentazione degli eventi, e da uno staff tecnico dedicato agli aspetti prettamente informatici. L'elemento base della struttura organizzativa JATF è il gruppo di volo. Il gruppo di volo, a sua volta, porta in JATF i suoi piloti, di cui ne è responsabile a livello organizzativo, addestrativo, e disciplinare. E' ammessa la presenza dei cosidetti Lupi Solitari (Lone Wolves) o piloti individuali senza gruppo di volo solo se sponsorizzati da un gruppo di volo esistente e iscritto a JATF.
 
-
-|                      | Board of directors |                           |
-|----------------------|--------------------|---------------------------|
-|                      | Consiglieri        |                           |
-| Staff Amministrativo | Staff Logistico    | Staff Tencnico            |
-|                      | Gruppi di volo     |                           |
-| Piloti GvV           |                    | Lone Wolves Sponsorizzati |
+[![Organigramma JATF](https://i.postimg.cc/nzD4mBny/jatf-organigramma.jpg)](https://postimg.cc/HcT8DJcz)
