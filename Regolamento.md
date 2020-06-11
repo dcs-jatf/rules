@@ -120,7 +120,7 @@ Viene richiesto ad ogni pilota partecipante un livello di competenza sufficiente
 
 Analogamente il Gruppo di Volo, in completa autonomia decisionale, può implementare un sistema gerarchico di gradi e/o brevetti e/o onorificenze conseguenti le prestazioni raggiunte durante eventi organizzati da JATF: tuttavia questi titoli non avranno alcun impatto all'interno dell'organizzazione e struttura JATF (sebbene, laddove possibile, non sia negato fregiarsi di questi titoli in firme o altro).
 
-# 9 Modifiche al regolamento
+## 9 Modifiche al regolamento
 Con la partecipazione agli eventi JATF, sebbene rappresentato dal proprio Gruppo di Volo, il singolo pilota accetta il presente regolamento, ed è tenuto ad accettarlo e rispettarlo ogni qual volta esso venga modificato.
 
 L'utente che volesse, nel pieno diritto decisionale, declinare il presente regolamento e le sue future modifiche è automaticamente interdetto dalle attività organizzate da questa comunità.
