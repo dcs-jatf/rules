@@ -8,19 +8,15 @@
 
 ## 1. Che cos'è JATF
 
-Joint Air Task Force, abbreviata JATF, *non è* un gruppo di volo, una squadriglia virtuale o un clan di videogaming. 
+Joint Air Task Force, abbreviata JATF, è un luogo di aggregazione di gruppi di volo o squadriglie virtuali che condividono gli stessi ideali di simulazione e del divertimento che ne consegue, che vogliono mettersi alla prova con altri gruppi di volo e condividerne le esperienze e conoscenze.
 
-JATF è un luogo (virtuale) di aggregazione di gruppi di volo o squadriglie virtuali che condividono gli stessi ideali di simulazione e del divertimento che ne consegue, che vogliono mettersi alla prova con altri gruppi di volo e condividerne le esperienze e conoscenze.
+Lo scopo della JATF è quello di dare un luogo sano e divertente dedicato alla simulazione di volo a tutti quei gruppi che condividono gli ideali indicati al paragrafo precedente, concedendo la possibilità ai gruppi iscritti di poter partecipare, organizzare e pianificare delle operazioni realistiche di milsim.
+
+JATF non è un gruppo di volo, una squadriglia virtuale o un clan di videogaming, né si prefigge di diventarlo in futuro.
 
 JATF è un luogo dove tutti i gruppi di volo simulato che ne fanno parte mantengono la propria identità e autonomia, il proprio modus operandi, i propri obiettivi e ovviamente i propri piloti.
 
-All'interno di JATF ogni gruppo di volo ha l'opportunità di partecipare a missioni di volo congiunte e anche di organizzarle. 
-
-Lo scopo di JATF è creare e mantenere un ambiente sano e divertente dedicato alla simulazione di volo, dove i piloti dei vari gruppi di volo possono partecipare e affrontare missioni di volo in uno scenario complicato con molteplici gruppi e velivoli.
-
-La comunità JATF è costituita e si fonda con l'unico scopo di supportare a vari livelli la comune passione per la simulazione militare e videoludica in genere; non è nelle finalità della comunità trarre lucro dalle proprie attività presenti e future.
-
-La comunità JATF è apolitica, apartitica ed aconfessionale.
+La comunità JATF è apolitica, apartitica ed aconfessionale; nessuna attività è volta a trarre lucro.
 
 Le decisioni della comunità vengono prese con formula democratica secondo le modalità previste dal presente regolamento.
 
@@ -30,7 +26,13 @@ Le decisioni della comunità vengono prese con formula democratica secondo le mo
 * Sito web: ...
 * Whatsapp: ...
 
-## 3. Iscrizione a JATF
+## 3. Piattaforme di gioco
+
+Le piattaforme di gioco e simulazione utilizzate e per le quali si organizzano eventi sono:
+* DCS World - [link](http://www.dcsworld.com)
+* IL-2 Great Battles Series - [link](link)
+
+## 4. Iscrizione a JATF
 
 L'iscrizione a JATF è riservata ai gruppi di volo. Non è ammessa l'iscrizione del pilota solitario, il cosiddetto *Lone Wolf*, a meno che sia esplicitamente sponsorizzato da un gruppo di volo.
 
@@ -40,7 +42,7 @@ L'iscrizione alla comunità JATF comporta l'accettazione incondizionata del pres
 
 La richiesta di iscrizione può essere inoltrata attraverso i canali di comunicazione di cui all'art.2 e viene formalizzata con l'assegnazione dei diritti di accesso al server Discord da parte dello staff tecnico JATF.
 
-## 4. Norme Comportamentali
+## 5. Norme Comportamentali dell'utente
 
 In nessun modo JATF supporta o promuove l’utilizzo di materiale, sistemi e videogiochi coperti da diritti d’autore dei quali l’utente non dispone copia originale. L’utente sarà l’unico soggetto tenuto a rispondere di eventuali irregolarità e non potrà in alcun modo considerare la Comunità JATF coinvolta o responsabile.
 
@@ -60,7 +62,21 @@ Ogni utente deve provvedere a modificare il proprio callsign nel server Discord 
 
 Lo staff JATF ha l'autorità per riprendere e redarguire un utente ritenuto colpevole di aver volontariamente o inavvertitamente contravvertito al presente regolamento, segnalando inoltre l'avvenuto al Gruppo di Volo di appartenenza dell'utente in questione. Nei casi più gravi il Consiglio Direttivo può richiedere direttamente azioni correttive ai rappresentanti del Gruppo di Volo di appartenenza dell'utente.
 
-## 5. Struttura organizzativa
+## 6. Norme comportamentali del Gruppo partecipante
+
+Come indicato nell'Art.4, il Gruppo (di Volo) è l'*elemento base* considerato all'interno della Struttura Organizzativa. Si distinguono due tipologie di Gruppo:
+* **Gruppo di Volo** (partecipante), abbreviato con **GdV**: ha pieno accesso alle attività e risorse della JATF
+* **Gruppo di Volo Rappresentante**, abbreviato con **GdVR**: come il GdV ma in più ha autorità decisionale all'interno della Struttura Organizzativa JATF come indicato negli articoli seguenti.
+
+Ogni Gruppo di Volo ha piena autorità e responsabilità sui propri piloti di appartenenza ed eventuali Lone Wolves sponsorizzati, sia a livello di gioco, sia a livello comportamentale, e ne risponde direttamente nella figura di massimo n.2 rappresentanti, indicati all'atto dell'iscrizione, e che avranno la funzione di portavoce nei confronti del Direttivo JATF.
+
+Ogni GdV ha la possibilità di presentarsi in una *vetrina pubblica* messa a disposizione da JATF (da fare) sui suoi canali di comunicazione principale, dove elencare le caratteristiche del gruppo ed eventuali peculiarità, nell'ottica di fornire ad eventuali nuovi piloti o Lone Wolves, una scelta e possibilità di reclutamento. E' fatto assoluto divieto fare pubblicità e reclutamento diretto in nessun canale JATF: è tuttavia possibile usare la partecipazione a JATF e il logo JATF come eventuale fregio o vanto a scopo di reclutamento.
+
+Ogni Gruppo iscritto a JATF viene identificato come GdV (partecipante) per tutta la sua permanenza in JATF. Durante un periodo minimo di tre mesi, il Direttivo JATF monitorerà il comportamento e la partecipazione del GdV e dei suoi membri, riservando il diritto di richiamare all'ordine il GdV fino all'espulsione del Gruppo nel caso di esplicita contravvenzione al presente regolamento e alle regole civili generalmente riconosciute di buona educazione e convivenza.
+
+Dopo un periodo minimo di 6 mesi di partecipazione, il GdV, tramite il suo Rappresentante, può fare richiesta al Consiglio direttivo di cambiare la tipologia del proprio gruppo in Gruppo di Volo Rappresentante (GdVR). Alla luce di questa richiesta il Consiglio Direttivo dovrà esprimere il consenso o rifiuto secondo le modalità di decisione indicate nell'articolo **XX**.
+
+## 7. Struttura organizzativa
 
 La struttura gerarchica di JATF è composta da un Consiglio direttivo costituito da più consiglieri e presieduto da un presidente, da uno staff di gestione e moderazione dei canali di comunicazione, da uno staff dedicato all'organizzazione e regolamentazione degli eventi, e da uno staff tecnico dedicato agli aspetti prettamente informatici. 
 
@@ -70,7 +86,7 @@ E' ammessa la presenza dei cosidetti Lupi Solitari (Lone Wolves) o piloti indivi
 
 [![Organigramma JATF](https://i.postimg.cc/nzD4mBny/jatf-organigramma.jpg)](https://postimg.cc/HcT8DJcz)
 
-## 6. Tipologie di incarico
+## 8. Tipologie di incarico
 
 All'interno della struttura organizzativa JATF sono stati individuati i seguenti ruoli / incarichi:
 * JATF Director: è il responsabile in carica di JATF che presiede il consiglio direttivo e in generale dà le disposizioni alla comunità su come svolgere le varie attività e su come sia strutturata l'organizzazione. All'atto pratico dispone di un punto in più nelle votazioni del consiglio direttivo. Il JATF Director viene eletto tramite votazione del consiglio direttivo e scelto tra uno dei due rappresentanti del Gruppo di Volo scelto come guida dell'organizzazione.
@@ -87,8 +103,7 @@ Il membro con ruolo di staff può richiedere in qualsiasi momento di essere rimo
 Analogamente i rappresentanti del GdVr cui appartiene il membro staff possono decidere di rimuovere il ruolo da un  membro del proprio GdV. 
 Il Consiglio Direttivo può decidere di rimuovere il ruolo da qualsiasi membro, ma solo attraverso formale votazione e delibera.
 
-
-## 7 Decisioni della Comunità
+## 9 Decisioni della Comunità
 Le decisioni all'interno di JATF sono prese dal Consiglio Direttivo attraverso apposite assemblee periodiche o straordinarie. 
 Qualunque utente può presentare una proposta di modifica o idea di miglioramento, ma per una corretta canalizzazione delle informazioni è indicato presentare la proposta ai rappresentanti del proprio Gruppo di Volo che poi, dopo una prima valutazione, presenteranno la proposta al Consiglio Direttivo che la discuterà e la voterà.
 
@@ -113,14 +128,14 @@ L’assemblea delibera con il voto positivo del 50%+1 dei votanti intervenuti.
 In seconda convocazione l’assemblea delibera sugli oggetti che avrebbero dovuto essere trattati nella prima, qualunque sia il numero di componenti il CD presenti purché in minimo di 3 + il Direttore (che deve essere presente), e delibera con il voto favorevole di almeno il 50% + 1 dei presenti.
 Nel caso in cui anche in seconda convocazione non si raggiunga il minimo di rappresentanti richiesti per la delibera o se non è possibile deliberare a causa di esito in parità, l’assemblea è aggiornata e rimandata a data da destinarsi. Nell’assemblea seguente si delibereranno gli stessi oggetti in aggiunta a quelli eventualmente ritenuti necessari nel frattempo.
 
-## 8 Certificazioni, Decorazioni e Gradi
+## 10 Certificazioni, Decorazioni e Gradi
 In JATF non è previsto l'uso ufficiale di certificazioni, decorazioni e gradi.
 
 Viene richiesto ad ogni pilota partecipante un livello di competenza sufficiente a soddisfare i requisiti minimi indicati nelle procedure operative standard di gruppo. Il Gruppo di Volo di appartenenza è tenuto a garantire che i propri piloti siano adeguatamente formati, informati e addestrati per poter partecipare alle attività JATF.
 
 Analogamente il Gruppo di Volo, in completa autonomia decisionale, può implementare un sistema gerarchico di gradi e/o brevetti e/o onorificenze conseguenti le prestazioni raggiunte durante eventi organizzati da JATF: tuttavia questi titoli non avranno alcun impatto all'interno dell'organizzazione e struttura JATF (sebbene, laddove possibile, non sia negato fregiarsi di questi titoli in firme o altro).
 
-## 9 Modifiche al regolamento
+## 11 Modifiche al regolamento
 Con la partecipazione agli eventi JATF, sebbene rappresentato dal proprio Gruppo di Volo, il singolo pilota accetta il presente regolamento, ed è tenuto ad accettarlo e rispettarlo ogni qual volta esso venga modificato.
 
 L'utente che volesse, nel pieno diritto decisionale, declinare il presente regolamento e le sue future modifiche è automaticamente interdetto dalle attività organizzate da questa comunità.
