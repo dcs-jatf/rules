@@ -29,7 +29,7 @@ Le attività di direzione e gestione sono svolte da un consiglio direttivo - den
 * **JATF Counselor**: è uno dei due rappresentanti del GdVU, fa parte del consiglio direttivo e collabora con il Director e gli altri consiglieri alla definizione e al raggiungimento degli obiettivi JATF. Viene scelto dal GdVU di appartenenza. Il suo voto vale **1 punto**.
 * **JATF Cyber Operations Cell**: si occupa degli aspetti tecnico/informatici, tra cui la gestione e manutenzione del server Discord, del sito e dei server di gioco.
 * **JATF Staff**: si occupa di monitorare e moderare i canali di comunicazione (vedi art. 4) e di promuovere le attività all'esterno della comunità.
-* **JATF Logistics**: si occupa di creare le missioni e di organizzare la partecipazione alle stesse, nonché di definire e redigere le Procedure Operative Standard di JATF.
+* **JATF Logistics**: si occupa di creare le missioni e di organizzare la partecipazione alle stesse, nonché di definire e redigere le Procedure Operative Standard.
 
 Le cariche di Director e Counselor si possono ottenere **esclusivamente** per nomina.
 
