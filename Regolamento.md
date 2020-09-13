@@ -94,7 +94,7 @@ L’utente non è tenuto a fornire dati di natura personale, a meno che non desi
 
 Ogni utente deve provvedere a modificare il proprio callsign anteponendovi la tag del gruppo a cui appartiene.
 
-## 9. Decisioni della Comunità
+## 9. Decisioni della comunità
 
 In JATF le decisioni sono prese **esclusivamente** dal consiglio direttivo, attraverso apposite assemblee periodiche o straordinarie, che - a seconda dell'argomento e in ogni caso ad assoluta discrezione del consiglio direttivo stesso - possono essere pubbliche o riservate. I membri del consiglio direttivo sono gli unici ad avere diritto di voto.
 
