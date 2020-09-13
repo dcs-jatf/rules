@@ -66,7 +66,7 @@ E' previsto un periodo di valutazione iniziale della durata minima di 3 mesi, du
 
 Ogni gruppo è quindi responsabile dei propri membri e deve monitorare e garantire - sia per essi sia per eventuali *lone wolves* sponsorizzati - la conoscenza e il rispetto del regolamento quando partecipano alle attività o si trovano all'interno dei canali di comunicazione o dei server JATF (vedi artt. 8 e 11).
 
-E' fatto assoluto divieto di svolgere attività di reclutamento diretto nei canali di comunicazione ufficiali indicati all'art. 4. Tuttavia, è possibile richiedere che sui medesimi canali venga approntata una sorta di "vetrina" pubblica dove presentare le proprie caratteristiche e peculiarità, così da permettere ai *lone wolves* e altri potenziali interessati di valutare un'eventuale iscrizione spontanea. E' altresì consentito usare l'appartenenza a JATF, la partecipazione alle attività e il logo come fregio o vanto a scopo di reclutamento all'esterno della comunità.
+E' fatto assoluto divieto di svolgere attività di reclutamento diretto nei canali di comunicazione ufficiali indicati all'art. 4. Tuttavia, è possibile richiedere che sui medesimi canali venga approntata una "vetrina" pubblica dove presentare le proprie caratteristiche e peculiarità, così da permettere ai *lone wolves* e altri potenziali interessati di valutare un'eventuale iscrizione spontanea. E' altresì consentito usare l'appartenenza a JATF, la partecipazione alle attività e il logo come fregio o vanto a scopo di reclutamento all'esterno della comunità.
 
 Il gruppo che non adempia ai suoi obblighi può essere richiamato all'ordine e, nel caso di reiterate violazioni, espulso. L'espulsione del gruppo comporta automaticamente l'espulsione di tutti i suoi membri.
 
