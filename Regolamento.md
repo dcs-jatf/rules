@@ -124,7 +124,7 @@ Se non si riesce a determinare una maggioranza o nel caso in cui sia stata raggi
 
 In JATF non è previsto l'uso ufficiale di certificazioni, decorazioni e gradi.
 
-Ogni membro deve avere un livello di competenza sufficiente a soddisfare i requisiti minimi indicati nelle Procedure Operative Standard di gruppo. Il gruppo di volo di appartenenza è tenuto a garantire che i propri membri siano adeguatamente formati, informati e addestrati per poter partecipare alle attività JATF.
+Ogni membro deve avere un livello di competenza sufficiente a soddisfare i requisiti minimi indicati nelle Procedure Operative Standard pubblicate. Il gruppo di volo di appartenenza è tenuto a garantire che i propri membri siano adeguatamente formati, informati e addestrati per poter partecipare alle attività JATF.
 
 Ogni gruppo di volo, che mantiene completa autonomia decisionale sulle questioni interne, può implementare un proprio sistema gerarchico di gradi e/o brevetti e/o onorificenze; tuttavia questi titoli non hanno alcun impatto sugli altri membri e sulla struttura JATF. E' comunque consentito fregiarsene in firme, callsign e affini.
 
