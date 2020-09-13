@@ -80,7 +80,7 @@ Non è **assolutamente** tollerata la mancanza di rispetto nei confronti degli a
 
 Non è tollerato un linguaggio non consono (con particolare riferimento alla blasfemia), specialmente in considerazione del fatto che le attività potrebbero essere trasmesse in streaming e/o registrate a scopi didattici e ricreativi.
 
-Non è ammesso lo spam (messaggi multipli dallo stesso contenuto, richieste e discorsi fuori contesto, pubblicità, etc.) nei canali testuali o vocali e sarà diritto degli utenti chiedere allo spammer di cessare tale comportamento.
+Non è ammesso lo spam (messaggi multipli dallo stesso contenuto, richieste e discorsi fuori contesto, pubblicità, etc.) nei canali testuali o vocali, è diritto degli utenti chiedere allo spammer di cessare tale comportamento.
 
 In nessun modo JATF supporta o promuove l’utilizzo di materiale protetto da diritti d’autore del quale l’utente non disponga di copia originale. L’utente risponde in via personale ed esclusiva di eventuali irregolarità in tal senso.
 
